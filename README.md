@@ -250,7 +250,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 ### Email
 *Libraries for sending and parsing email.*
-
+ 
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Email Validator](https://github.com/nojacko/email-validator) - A small email address validation library.
